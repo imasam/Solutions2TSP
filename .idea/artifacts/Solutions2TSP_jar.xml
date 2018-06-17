@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Solutions2TSP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Solutions2TSP_jar</output-path>
+    <root id="archive" name="Solutions2TSP.jar">
+      <element id="module-output" name="Solutions2TSP" />
+    </root>
+  </artifact>
+</component>
